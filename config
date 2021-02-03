@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 1109x563+698+370 216 255
+[user]
+	name = Igor
+[user "name"]
+	email = bordan04@mail.ru
